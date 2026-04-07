@@ -2,7 +2,7 @@
 
 # 🎵 Spotify Clone (Frontend)
 
-This is a **Spotify-inspired frontend web application** built using HTML, CSS, and JavaScript.  
+This is a **Spotify-inspired frontend web application** built using HTML and CSS.  
 It replicates the basic UI and design of Spotify, focusing on user interface and responsiveness.
 
 ---
